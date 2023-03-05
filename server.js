@@ -1,3 +1,9 @@
+/*
+File name: server.js
+Author's Name: Yashvi Chauhan
+Student id: 301271988
+Web app: Book store
+*/
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
